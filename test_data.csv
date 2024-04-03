@@ -1,0 +1,11 @@
+filename,detected_closest_object,real_object
+chair_lab_test1.jpg,chair,chair
+chair_lab_test2.jpg,chair,chair
+chair_test2.jpeg,chair,chair
+chair_test3.jpg,chair,chair
+couch_test1.jpeg,couch,couch
+couch_test2.jpg,couch,couch
+couch_test3.webp,couch,couch
+person_test1.jpg,person,person
+person_test2.jpg,person,person
+person_test3.jpg,person,person
