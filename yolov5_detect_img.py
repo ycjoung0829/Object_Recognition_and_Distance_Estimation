@@ -11,7 +11,7 @@ object_width = {"person":60, "chair":40, "couch":200}
 indoor_object_set = {'couch','person','chair'}
 
 # Model
-model = torch.hub.load('ultralytics/yolov5', 'yolov5l')  # or yolov5m, yolov5l, yolov5x, etc.
+model = torch.hub.load('ultralytics/yolov5', 'yolov5x')  # or yolov5m, yolov5l, yolov5x, etc.
 # model = torch.hub.load('ultralytics/yolov5', 'custom', 'path/to/best.pt')  # custom trained model
 
 def focal_length_finder (measured_distance, real_width, width_in_rf):
