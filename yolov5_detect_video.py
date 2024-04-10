@@ -6,7 +6,7 @@ import pandas as pd
 # Distance constants 
 KNOWN_DISTANCE = 200 #CM
 
-object_width = {"person":60, "chair":40, "couch":200}#, "book":20}
+object_width = {"person":60, "chair":40, "couch":200}
 indoor_object_set = {'couch','person','chair'}
 
 # Model
